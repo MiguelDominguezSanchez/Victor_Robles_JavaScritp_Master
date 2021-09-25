@@ -8,6 +8,7 @@ var continente = 'Europa'
 var antiguedad = 2019
 // concatenacion de dos cadenas de texto en una sola
 var pais_y_continente = pais + '' + continente
+
 let prueba = 'hola'
 alert('hola')
 
